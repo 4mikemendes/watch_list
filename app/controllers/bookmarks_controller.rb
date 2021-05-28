@@ -13,6 +13,6 @@ class BookmarksController < ApplicationController
   end
 
   def boormark_params
-    params.require(:bookmark).permit(:comment)
+    params.require(:bookmark).permit(:comment, :movie_id)
   end
 end
