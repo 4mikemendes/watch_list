@@ -1,5 +1,5 @@
 current directory: /Users/HYAEJIN/code/4mikemendes/rails-watch-list/vendor/cache/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
-/Users/HYAEJIN/.rbenv/versions/2.6.6/bin/ruby -I /Users/HYAEJIN/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210527-38791-ietk6e.rb extconf.rb
+/Users/HYAEJIN/.rbenv/versions/2.6.6/bin/ruby -I /Users/HYAEJIN/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210528-53034-1ydogs1.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -40,4 +40,4 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/HYAEJIN/code/4mikemendes/rails-watch-list/vendor/cache/ruby/2.6.0/gems/ffi-1.15.1/ext/ffi_c
 make "DESTDIR=" install
-/usr/local/bin/ginstall -c -m 0755 ffi_c.bundle ./.gem.20210527-38791-1sv4kgi
+/usr/local/bin/ginstall -c -m 0755 ffi_c.bundle ./.gem.20210528-53034-es4na3
