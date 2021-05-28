@@ -5,7 +5,11 @@ class BookmarksController < ApplicationController
 
   def create
     @bookmark = Bookmark.new(boormark_params)
-
+    if @bookmark.save
+      redirect_to list_path(@list)
+    else
+      render :new
+    end
   end
 
   def boormark_params
