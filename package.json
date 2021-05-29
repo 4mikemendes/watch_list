@@ -1,3 +1,6 @@
+"scripts": {
+   "start": "node index.js"
+}
 {
   "name": "rails_watch_list",
   "private": true,
