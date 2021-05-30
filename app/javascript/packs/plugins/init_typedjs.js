@@ -5,7 +5,7 @@ const initTyped = () => {
   if (element) {
     new Typed('.typed-js', {
       strings: ['Drama', 'Classic', 'Comedy', 'Action', 'Romantic', 'Thriller', 'Horror', 'Slasher'],
-      typeSpeed: 80,
+      typeSpeed: 90,
       loop: true,
       loopCount: Infinity,
       showCursor: false
